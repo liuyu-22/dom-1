@@ -1,0 +1,11 @@
+10
+22D:\Software\dom-1\dist132966303142115236 1
+21D:\Software\dom-1\src132966273205264219 1
+28D:\Software\dom-1\src\dom.js132966303126444323 0
+44D:\Software\dom-1\dist\index.de158e3a.js.map132966303141207660 0
+44D:\Software\dom-1\dist\index.755bdb92.js.map132966303141885852 0
+32D:\Software\dom-1\src\index.html132966277515385918 0
+29D:\Software\dom-1\src\main.js132966277490177908 0
+40D:\Software\dom-1\dist\index.de158e3a.js132966303141058063 0
+40D:\Software\dom-1\dist\index.755bdb92.js132966303141606600 0
+33D:\Software\dom-1\dist\index.html132966303141606600 0
